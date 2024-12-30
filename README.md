@@ -1,4 +1,3 @@
-# Predicting-hospitalization-costs
 # **Hospitalization Cost Prediction**
 
 ## **Defining the Problem**
